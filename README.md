@@ -1,2 +1,2 @@
 # PTTK-GiaiThuat
-Phân tích &amp; Thiết kế Giải thuật
+Phân tích &amp; Thiết kế Giải Thuật
