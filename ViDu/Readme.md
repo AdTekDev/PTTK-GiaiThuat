@@ -1,5 +1,4 @@
-# Ví dụ theo Bài Giảng
-
+# Ví dụ
 
 
 
