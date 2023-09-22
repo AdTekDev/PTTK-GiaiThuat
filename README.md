@@ -1,5 +1,4 @@
-# PTTK-GiaiThuat
-Phân tích &amp; Thiết kế Giải Thuật
+# Phân tích &amp; Thiết kế Giải Thuật
 
 ## Phần mềm sử dụng
 (chỉ cần sử dụng 1 trong các công cụ sau)
