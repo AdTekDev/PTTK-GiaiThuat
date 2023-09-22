@@ -1,7 +1,7 @@
 # Phân tích &amp; Thiết kế Giải Thuật
 
 ## Phần mềm sử dụng
-(chỉ cần sử dụng 1 trong các công cụ sau)
+(chỉ cần sử dụng 1 trong các công cụ phổ biến sau)
 - Visual Studio
 - Code::Blocks
 - Dev C++
