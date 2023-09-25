@@ -2,13 +2,13 @@
 # Bài tập - Phần 1. Tổng quan
 
 
-P1.01. Cho đoạn Code sau, xác định có bao nhiêu phép tính toán(++,--,+,-,*,/) 
+**P1.01.** Cho đoạn Code sau, xác định có bao nhiêu phép tính toán(++,--,+,-,*,/) 
 
 A = b++ + c+d - --e; 
 
  
 
-P1.02. Cho đoạn Code sau, xác định có bao nhiêu phép tính toán(++,--,+,-,*,/) 
+**P1.02. **Cho đoạn Code sau, xác định có bao nhiêu phép tính toán(++,--,+,-,*,/) 
 
 if (a > b) 
 
@@ -18,7 +18,7 @@ else
 
 	b = b - a; 
 
-P1.03. Cho đoạn Code sau, xác định có bao nhiêu phép tính toán(++,--,+,-,*,/), phép gán, phép so sánh: 
+**P1.03.** Cho đoạn Code sau, xác định có bao nhiêu phép tính toán(++,--,+,-,*,/), phép gán, phép so sánh: 
 
 tong = 0; 
 
@@ -30,7 +30,7 @@ for(int i=0;i<3;i++) {
 
  
 
-P1.04. Chèn thêm các biến đếm cho đoạn Code sau để xác định có bao nhiêu phép tính toán(++,--,+,-,*,/), phép gán, phép so sánh: 
+**P1.04.** Chèn thêm các biến đếm cho đoạn Code sau để xác định có bao nhiêu phép tính toán(++,--,+,-,*,/), phép gán, phép so sánh: 
 
 CODE nguyên mẫu: 
 
