@@ -20,7 +20,6 @@ Fx = 5*x*x - 3*x + 5
 
 - Hãy thành lập công thức tính và  xác nhận công thức tính độ phức tạp cho từng phần theo n (chạy thử với các trường hợp khác nhau).   
 
- 
   
 **P2-B1.03.** Viết lại đoạn Code hiện thực lại giải thuật Horner cho tính đa thức.   
 
