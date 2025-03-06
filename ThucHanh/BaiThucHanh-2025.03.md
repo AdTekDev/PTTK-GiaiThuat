@@ -15,6 +15,9 @@ Ký tự khác được giữ nguyên.
 
 Quá trình giải mã là quá trình ngược lại, dịch K ký tự từ ký tự đã mã hóa.
 
+![image](https://github.com/user-attachments/assets/19d566fd-fdcc-4ae2-8a5a-6c41b79ee293)
+
+
 Ví dụ:  
 
 K=1   
@@ -33,6 +36,8 @@ Cho chương trình thực hiện việc giải mã bằng việc cung cấp th�
 - Chuỗi ký tự đã mã hóa  encryptedText 
 - Giá trị K thực hiện phép dịch ngược trong biến shift  
 
+Code: https://github.com/AdTekDev/PTTK-GiaiThuat/blob/main/ThucHanh/Code/GiaiMaCeasarCipher.cpp  
+
 ## Yêu cầu thực hiện 
 1. (2đ) Phác họa lưu đồ giải thuật cho hàm giải mã  decryptCaesarCipher
 2. (2đ) Lập công thức và Xác định độ phức tạp số phép so sánh theo N ký tự
@@ -40,5 +45,6 @@ Cho chương trình thực hiện việc giải mã bằng việc cung cấp th�
 4. (2đ) Thêm các biến đếm trong chương trình để thực hiện đếm các phép toán trên
 5. (2đ) Lập bảng so sánh 10 tình huống của encryptedText với N=10. Rút ra quy luật tình huống nào thực hiện nhiều phép toán nhất và trường hợp nào ít nhất.
    
-
+## Tham khảo thêm
+- https://vi.wikipedia.org/wiki/M%E1%BA%ADt_m%C3%A3_Caesar
 
